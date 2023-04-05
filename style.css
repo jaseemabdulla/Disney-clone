@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    font-family:Helvetica, Arial, sans-serif;
+    overflow-x: hidden;
+}
+/*hedear*/
+.hedear{
+    display: flex;
+  
+}
+.header-logo{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-weight: 700;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+/*hedear*/
+/*section-2*/
+.section-2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-2{
+    width: 350px;
+    height: 400px;
+    margin-top: 20px;
+}
+.text-2-1{
+  text-align: center;
+  margin-top: -80px;
+  color: rgb(109, 101, 101);
+  font-weight: 600;
+}
+.text-2-2{
+    text-align: center;
+ 
+  color: rgb(109, 101, 101);
+  font-weight: 800;
+}
+/*section-2*/
+/*section-gray*/
+.gray{
+    height: 2000px;
+    background-color: #eee;
+}
+.featured{
+    font-size: 30px;
+    margin-left: 100px;
+   padding-top: 30px;
+}
+.disney-spider{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+}
+.disney-spider-img{
+    width: 650px;
+    height: 400px;
+}
+.spider{
+    margin-left: 20px;
+}
+.holidays{
+    font-size: 30px;
+    margin-left: 100px;
+    padding-top: 40px;
+}
+.three-image{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+}
+.three-image-1{
+    width: 420px;
+}
+.three-image-text-1{
+    text-align: center;
+}
+.three-image-text-2{
+    text-align: center;
+    font-weight: 600;
+}
+.More-From-Disney{
+    font-size: 30px;
+    margin-left: 100px;
+    padding-top: 40px;
+}
+.two-image{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+}
+.two-image-1{
+    width: 650px;
+}
+.two-image-text-1{
+    text-align: center;
+}
+.two-image-text-2{
+    text-align: center;
+}
+.two-image-text-3{
+    text-align: center;
+}
+/*section-gray*/
+/*section-final*/
+.social-icon{
+    margin-left: 900px;
+    margin-top: 20px;
+}
+.final-diney{
+    width: 80px;
+    margin-top: 50px;
+  margin-left: 50%;
+}
+.final-nav{
+    display: flex;
+    text-align: center;
+    
+}
+.final-nav-1{
+    display: inline-block;
+    padding: 20px;
+    font-size: small;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
